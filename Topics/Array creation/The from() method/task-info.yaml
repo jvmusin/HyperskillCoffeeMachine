@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    function getArrayWithLength(string) {
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16363#comment
+status: Solved
+record: -1

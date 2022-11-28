@@ -1,0 +1,1 @@
+const captainAdder = name => "captain " + name
